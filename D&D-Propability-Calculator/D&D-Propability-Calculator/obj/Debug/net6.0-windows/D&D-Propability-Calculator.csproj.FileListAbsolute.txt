@@ -1,0 +1,16 @@
+C:\Users\johns\Desktop\D&D-Propability-Calculator\D&D-Propability-Calculator\D&D-Propability-Calculator\bin\Debug\net6.0-windows\D&D-Propability-Calculator.exe
+C:\Users\johns\Desktop\D&D-Propability-Calculator\D&D-Propability-Calculator\D&D-Propability-Calculator\bin\Debug\net6.0-windows\D&D-Propability-Calculator.deps.json
+C:\Users\johns\Desktop\D&D-Propability-Calculator\D&D-Propability-Calculator\D&D-Propability-Calculator\bin\Debug\net6.0-windows\D&D-Propability-Calculator.runtimeconfig.json
+C:\Users\johns\Desktop\D&D-Propability-Calculator\D&D-Propability-Calculator\D&D-Propability-Calculator\bin\Debug\net6.0-windows\D&D-Propability-Calculator.dll
+C:\Users\johns\Desktop\D&D-Propability-Calculator\D&D-Propability-Calculator\D&D-Propability-Calculator\bin\Debug\net6.0-windows\D&D-Propability-Calculator.pdb
+C:\Users\johns\Desktop\D&D-Propability-Calculator\D&D-Propability-Calculator\D&D-Propability-Calculator\obj\Debug\net6.0-windows\D_D_Propability_Calculator.Form1.resources
+C:\Users\johns\Desktop\D&D-Propability-Calculator\D&D-Propability-Calculator\D&D-Propability-Calculator\obj\Debug\net6.0-windows\D&D-Propability-Calculator.csproj.GenerateResource.cache
+C:\Users\johns\Desktop\D&D-Propability-Calculator\D&D-Propability-Calculator\D&D-Propability-Calculator\obj\Debug\net6.0-windows\D&D-Propability-Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johns\Desktop\D&D-Propability-Calculator\D&D-Propability-Calculator\D&D-Propability-Calculator\obj\Debug\net6.0-windows\D&D-Propability-Calculator.AssemblyInfoInputs.cache
+C:\Users\johns\Desktop\D&D-Propability-Calculator\D&D-Propability-Calculator\D&D-Propability-Calculator\obj\Debug\net6.0-windows\D&D-Propability-Calculator.AssemblyInfo.cs
+C:\Users\johns\Desktop\D&D-Propability-Calculator\D&D-Propability-Calculator\D&D-Propability-Calculator\obj\Debug\net6.0-windows\D&D-Propability-Calculator.csproj.CoreCompileInputs.cache
+C:\Users\johns\Desktop\D&D-Propability-Calculator\D&D-Propability-Calculator\D&D-Propability-Calculator\obj\Debug\net6.0-windows\D&D-Propability-Calculator.dll
+C:\Users\johns\Desktop\D&D-Propability-Calculator\D&D-Propability-Calculator\D&D-Propability-Calculator\obj\Debug\net6.0-windows\refint\D&D-Propability-Calculator.dll
+C:\Users\johns\Desktop\D&D-Propability-Calculator\D&D-Propability-Calculator\D&D-Propability-Calculator\obj\Debug\net6.0-windows\D&D-Propability-Calculator.pdb
+C:\Users\johns\Desktop\D&D-Propability-Calculator\D&D-Propability-Calculator\D&D-Propability-Calculator\obj\Debug\net6.0-windows\D&D-Propability-Calculator.genruntimeconfig.cache
+C:\Users\johns\Desktop\D&D-Propability-Calculator\D&D-Propability-Calculator\D&D-Propability-Calculator\obj\Debug\net6.0-windows\ref\D&D-Propability-Calculator.dll
